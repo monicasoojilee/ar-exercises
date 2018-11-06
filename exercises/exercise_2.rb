@@ -13,6 +13,6 @@ puts "\nSecond Store"
 p @store2
 
 puts "\nFirst Store Name Change"
-@store1.name = "Burnaby"
+@store1.name = "North Vancouver"
 @store1.save
 p @store1
